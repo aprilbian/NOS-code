@@ -1,5 +1,5 @@
 # DNM
-Source code for paper "Deep Learning Based Near-OrthogonalSuperposition Codes for Short Packets"
+Source code for paper "Deep Learning Based Near-Orthogonal Superposition Codes for Short Packets"
 
 "NN_main.py"
 Trains the deep learning model and tests the BER performance.
