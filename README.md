@@ -1,4 +1,4 @@
-# DNM
+# NOS code
 Source code for paper "Deep Learning Based Near-Orthogonal Superposition Codes for Short Packets"
 
 "NN_main.py"
